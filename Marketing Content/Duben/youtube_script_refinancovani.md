@@ -17,12 +17,16 @@
 
 ---
 
-## 0:45 - 2:30 | AGITATION: Proč banky lžou (Kontext březen 2026 a geopolitika)
-**David:** „Podívejme se na fakta. Březen 2026. Sazby po měsících poklesu zase začaly skákat nahoru. Válka na Blízkém východě, konkrétně **eskalace konfliktu mezi USA a Íránem**, tlačí na globální trhy. Ropa zdražuje, geopolitická nejistota roste a s ní i cena peněz. Swapy letí vzhůru a banky jako ČSOB nebo Raiffeisen už zdražují o půl procenta. Pokud vám končí fixace, banka vám pošle dopis: 'Vážený kliente, tady je vaše nová sazba 4,99 %, podepište zde.'“
+## 0:45 - 2:30 | AGITATION: Proč banky lžou (Kontext březen 2026, data a geopolitika)
+**David:** „Podívejme se na fakta. Březen 2026. Sazby po měsících poklesu zase začaly skákat nahoru. Válka na Blízkém východě, konkrétně **eskalace konfliktu mezi USA a Íránem**, tlačí na globální trhy. Ropa zdražuje, geopolitická nejistota roste a s ní i cena peněz. Swapy letí vzhůru a banky jako ČSOB nebo Raiffeisen už zdražují o půl procenta.“
 
-**(Grafika na obrazovce: Srovnání splátky při 2 % vs 5 % – rozdíl v tisících. Možná i jednoduchá vizualizace grafu úrokových sazeb s prudkým nárůstem v březnu 2026 a zmínkou o geopolitice.)**
+**(Grafika na obrazovce: Titulek "REKORDNÍ VLNA REFINANCOVÁNÍ 2026". Pod ním srovnání: 2025: 240 mld. Kč vs. 2026: 460 mld. Kč.)**
 
-**David:** „To bolí, já vím. Ale ta největší bolest není v té splátce. Ta největší chyba je, že ten dopis podepíšete a neuděláte nic jiného. Banka vám neřekne: 'Hele, Michale, tvůj byt má teď o 2 miliony vyšší hodnotu, nechceš ty peníze využít na rekonstrukci za 4 % místo toho, abys platil 10 % na spotřebáku?' Neřeknou vám to, protože na vašem nevědomí vydělávají nejvíc. **A teď je ten kritický moment. Než se plný dopad geopolitické krize promítne do sazeb naplno, máte poslední šanci jednat. Tisícům lidí teď končí fixace. Jste mezi nimi? Pak je pro vás refinancování TEĎ nejlepší příležitostí, jak se vyhnout budoucímu zdražení a zároveň získat strategickou výhodu.**“
+**David:** „Ale to není všechno. Letošní rok je naprosto unikátní. Podle aktuálních dat ČBA a bankovních statistik končí v roce 2026 fixace u hypoték v rekordním objemu **až 460 miliard korun**. To je téměř dvojnásobek oproti loňsku! Statisíce lidí právě teď dostávají nebo brzy dostanou dopis z banky: 'Vážený kliente, tady je vaše nová sazba 4,99 %, podepište zde.'“
+
+**(Grafika na obrazovce: Srovnání splátky při 2 % vs 5 % – rozdíl v tisících.)**
+
+**David:** „To bolí, já vím. Ale ta největší bolest není v té splátce. Ta největší chyba je, že ten dopis podepíšete a neuděláte nic jiného. Banka vám neřekne: 'Hele, Michale, tvůj byt má teď o 2 miliony vyšší hodnotu, nechceš ty peníze využít na rekonstrukci za 4 % místo toho, abys platil 10 % na spotřebáku?' Neřeknou vám to, protože na vašem nevědomí vydělávají nejvíc. **A teď je ten kritický moment. Než se plný dopad geopolitické krize promítne do sazeb naplno, máte poslední šanci jednat. Jste v té vlně 460 miliard i vy? Pak je pro vás refinancování TEĎ nejlepší příležitostí, jak se vyhnout budoucímu zdražení a zároveň získat strategickou výhodu.**“
 
 ---
 
