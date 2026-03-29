@@ -30,35 +30,44 @@
 
 ---
 
-## 2:30 - 4:00 | PILÍŘ 1: Navýšení (Rekonstrukce) – Peníze pod polštářem
+## 2:30 - 4:00 | STRATEGICKÁ PŘÍPRAVA: Jak si zajistit výhru TEĎ
+**David:** „Nečekejte, až vám banka pošle dopis. To je jako čekat na poslední vagon, když už vlak odjíždí. Banky vám dopis pošlou často jen pár týdnů před koncem fixace. To je málo času na strategické rozhodnutí. **Začněte řešit refinancování 6 až 12 měsíců předem.** Proč? Protože si můžete **rezervovat aktuální, výhodnější sazbu u jiné banky**. Dnes je to třeba 4,5 %, ale za půl roku, s pokračující geopolitickou nejistotou, to může být klidně 6 %. Rezervací sazby si zajistíte klid a ušetříte statisíce.“
+
+**(Grafika na obrazovce: Časová osa: 12 měsíců před koncem fixace -> 6 měsíců -> 3 měsíce -> konec fixace. Zvýrazněno "Rezervace sazby TEĎ".)**
+
+**David:** „A pozor na skryté pasti. Banky vám sice nabídnou 'výhodný' úrok, ale často k němu 'přibalí' drahé pojištění, nevýhodné běžné účty nebo poplatky, které vám celou úsporu sežerou. Porovnávat jen úrok je jako kupovat auto jen podle barvy. Musíte vidět celou nabídku. A pokud na to nemáte čas, nebo se v tom nechcete utopit, **obraťte se na specialistu**. Jeho práce je srovnat celý trh, vyjednat nejlepší podmínky a odhalit všechny skryté poplatky. Ušetří vám čas, nervy a hlavně peníze.“
+
+---
+
+## 4:00 - 5:30 | PILÍŘ 1: Navýšení (Rekonstrukce) – Peníze pod polštářem
 **David:** „První strategie: Využijte vyšší hodnotu nemovitosti. Ceny bytů v ČR za poslední 3 roky vyrostly o desítky procent. To znamená, že vaše LTV – tedy poměr dluhu k hodnotě – kleslo. Máte v tom bytě 'uvězněné' peníze.“
 
 **Příklad:** „Máte hypotéku 4 miliony, ale byt má dnes hodnotu 7 milionů. Při refinancování si můžete říct o peníze navíc na rekonstrukci, tepelné čerpadlo nebo novou kuchyň. Rozdíl? Na spotřebitelském úvěru dnes zaplatíte klidně 9–12 %. V hypotéce? Kolem 4,5 %. To je úspora stovek tisíc na úrocích jen proto, že jste přemýšleli strategicky.“
 
 ---
 
-## 4:00 - 5:30 | PILÍŘ 2: Vyvázání zástavy – Svoboda pro rodinu
+## 5:30 - 7:00 | PILÍŘ 2: Vyvázání zástavy – Svoboda pro rodinu
 **David:** „Druhá věc, kterou banky nerady řeší, je vyvázání zástavy. Spousta z vás začínala tak, že do zástavy dala i byt rodičů nebo chatu, aby dosáhla na 80 % LTV. Dnes už máte část splacenou a hodnota vašeho bytu stoupla.“
 
 **David:** „Refinancování je ideální moment, kdy říct: 'Dost. Rodiče, tady máte svůj byt zpátky, už ho jako záruku nepotřebuju.' Proč je to důležité? Protože pokud byste chtěli ten druhý objekt prodat nebo ho využít jako zástavu pro sourozence, banka vám to bez refinancování neumožní nebo vám to pořádně osolí na poplatcích. Udělejte to teď, čistě a zdarma.“
 
 ---
 
-## 5:30 - 7:00 | PILÍŘ 3: Dozajištění a změny – Životní úklid
+## 7:00 - 8:30 | PILÍŘ 3: Dozajištění a změny – Životní úklid
 **David:** „Třetí bod: Úprava zajištění pro lepší podmínky nebo vypořádání SJM. Život se děje. Rozvody, dědictví, změna partnera v hypotéce. Pokud se snažíte tyhle věci řešit uprostřed fixace, banka vás drží pod krkem. Poplatky za změnu smluvní dokumentace, nové odhady, schvalování...“
 
 **David:** „Při refinancování máte čistý stůl. Můžete změnit banku, vyškrtnout ex-partnera, přidat nového, nebo upravit délku splácení tak, aby vám to v aktuální situaci dávalo smysl. Neřešte jen úrok, řešte svou svobodu a klidné spaní.“
 
 ---
 
-## 7:00 - 8:30 | PILÍŘ 4: Nemovitost jako páka – Cesta k bohatství
+## 8:30 - 9:30 | PILÍŘ 4: Nemovitost jako páka – Cesta k bohatství
 **David:** „A teď to nejdůležitější. Čtvrtá možnost, která odděluje ty, co jen splácí, od těch, co budují majetek. Využití volných prostředků k nákupu další investiční nemovitosti. Říká se tomu 'Equity Release'.“
 
 **David:** „Místo abyste šetřili 2 miliony na akontaci dalšího bytu 10 let, vytáhnete ty peníze ze svého stávajícího bytu díky jeho vyšší hodnotě. Banka vám půjčí na investici za hypoteční úrok. Ten úrok je daňově uznatelný náklad. Nájemník vám splácí tuhle 'páku' a vy vlastníte dvě nemovitosti místo jedné. Tohle je hra, kterou hrají bohatí, zatímco vy řešíte, jestli vám banka dá 4,8 nebo 4,9 %.“
 
 ---
 
-## 8:30 - 10:00 | ZÁVĚR & CTA: Rozhodnutí je na vás
+## 9:30 - 10:00 | ZÁVĚR & CTA: Rozhodnutí je na vás
 **David:** „Refinancování není o tom, kolik ušetříte měsíčně na splátce. Je o tom, jakou pozici si vybudujete pro příštích 5 nebo 10 let. Chcete jen dál splácet, nebo chcete svůj majetek aktivovat?“
 
 **(Vizuál: David ukazuje na obrazovku, kde se objeví 4 ikony odpovídající strategiím.)**
