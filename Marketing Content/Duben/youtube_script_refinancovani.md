@@ -17,12 +17,12 @@
 
 ---
 
-## 0:45 - 2:30 | AGITATION: Proč banky lžou (Kontext březen 2026)
-**David:** „Podívejme se na fakta. Březen 2026. Sazby po měsících poklesu zase začaly skákat nahoru. Válka na Blízkém východě, swapy letí vzhůru a banky jako ČSOB nebo Raiffeisen už zdražují o půl procenta. Pokud vám končí fixace, banka vám pošle dopis: 'Vážený kliente, tady je vaše nová sazba 4,99 %, podepište zde.'“
+## 0:45 - 2:30 | AGITATION: Proč banky lžou (Kontext březen 2026 a geopolitika)
+**David:** „Podívejme se na fakta. Březen 2026. Sazby po měsících poklesu zase začaly skákat nahoru. Válka na Blízkém východě, konkrétně **eskalace konfliktu mezi USA a Íránem**, tlačí na globální trhy. Ropa zdražuje, geopolitická nejistota roste a s ní i cena peněz. Swapy letí vzhůru a banky jako ČSOB nebo Raiffeisen už zdražují o půl procenta. Pokud vám končí fixace, banka vám pošle dopis: 'Vážený kliente, tady je vaše nová sazba 4,99 %, podepište zde.'“
 
-**(Grafika na obrazovce: Srovnání splátky při 2 % vs 5 % – rozdíl v tisících.)**
+**(Grafika na obrazovce: Srovnání splátky při 2 % vs 5 % – rozdíl v tisících. Možná i jednoduchá vizualizace grafu úrokových sazeb s prudkým nárůstem v březnu 2026 a zmínkou o geopolitice.)**
 
-**David:** „To bolí, já vím. Ale ta největší bolest není v té splátce. Ta největší chyba je, že ten dopis podepíšete a neuděláte nic jiného. Banka vám neřekne: 'Hele, Michale, tvůj byt má teď o 2 miliony vyšší hodnotu, nechceš ty peníze využít na rekonstrukci za 4 % místo toho, abys platil 10 % na spotřebáku?' Neřeknou vám to, protože na vašem nevědomí vydělávají nejvíc.“
+**David:** „To bolí, já vím. Ale ta největší bolest není v té splátce. Ta největší chyba je, že ten dopis podepíšete a neuděláte nic jiného. Banka vám neřekne: 'Hele, Michale, tvůj byt má teď o 2 miliony vyšší hodnotu, nechceš ty peníze využít na rekonstrukci za 4 % místo toho, abys platil 10 % na spotřebáku?' Neřeknou vám to, protože na vašem nevědomí vydělávají nejvíc. **A teď je ten kritický moment. Než se plný dopad geopolitické krize promítne do sazeb naplno, máte poslední šanci jednat. Tisícům lidí teď končí fixace. Jste mezi nimi? Pak je pro vás refinancování TEĎ nejlepší příležitostí, jak se vyhnout budoucímu zdražení a zároveň získat strategickou výhodu.**“
 
 ---
 
