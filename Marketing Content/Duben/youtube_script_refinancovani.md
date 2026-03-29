@@ -67,13 +67,18 @@
 
 ---
 
-## 9:30 - 10:00 | ZÁVĚR & CTA: Rozhodnutí je na vás
-**David:** „Refinancování není o tom, kolik ušetříte měsíčně na splátce. Je o tom, jakou pozici si vybudujete pro příštích 5 nebo 10 let. Chcete jen dál splácet, nebo chcete svůj majetek aktivovat?“
+## 9:30 - 10:30 | STRATEGICKÝ ZÁVĚR: Hypotéka jako nástroj, ne jako dluh
+**David:** „Pamatujte si jednu věc: Hypotéka je pouze nástroj. Je to produkt jako každý jiný. A jako každý nástroj, i tento musíte umět používat, aby vám sloužil, ne aby vás ovládal. Krátkodobě řešit jen úrokovou sazbu nedává smysl. Je potřeba se na to dívat v kontextu celého vašeho života a majetku.“
 
-**(Vizuál: David ukazuje na obrazovku, kde se objeví 4 ikony odpovídající strategiím.)**
+**David:** „Ať už řešíte investiční nemovitosti, hypotéku na vlastní bydlení nebo výstavbu rodinného domu – jsou to velké věci, které vyžadují plán. Zvlášť pokud jste majitel firmy nebo podnikatel. Tam už to není jen o splátce, ale navazuje to na vaše daně, cashflow a dlouhodobou strategii firmy. Proto s mými klienty nesrovnáváme jen úroky, ale sestavujeme **plán na míru**.“
 
-**David:** „Každá z těchto 4 cest vyžaduje jinou přípravu. Proto jsem pro vás připravil speciální landing page. Žádné obecné kecy. Klikněte na odkaz pod videem, vyberte si jednu z těchto 4 situací, která se vás týká, a já vám pošlu konkrétní checklist, co musíte udělat, než půjdete do banky. Aby banka nehrála s vámi, ale vy s bankou.“
+---
 
-**David:** „Odkaz je v popisku. Nečekejte na dopis z banky. Buďte o krok napřed. Jsem David Šimana a dělám finance, které dávají smysl vám, ne bankám. Uvidíme se u dalšího videa.“
+## 10:30 - 11:00 | CTA: Vaše strategie začíná zde
+**David:** „Nechceme, abyste jen spláceli. Chceme, abyste budovali. Proto vám s mým týmem nabízíme **návrh strategie zdarma**. Žádné závazky, jen čistá data a plán pro vaši situaci.“
+
+**(Vizuál: David ukazuje na odkaz na obrazovce.)**
+
+**David:** „Klikněte na odkaz pod videem. Můžete si tam přímo rezervovat termín schůzky, nebo využít naši kalkulačku na refinancování, která vám ukáže reálný potenciál vašeho bytu. Přestaňte být pasivním klientem banky a staňte se aktivním tvůrcem svého majetku. Odkaz je v popisku. Těším se na vás u dalšího videa.“
 
 **(Střih: Logo Fin2u, webová adresa, hudba graduje a končí.)**
