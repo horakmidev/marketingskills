@@ -1,4 +1,4 @@
-# Scénáře pro Reels: Rezidence Háječek – Vejprnice (Studiový Rozhovor - FINÁLNÍ VERZE V3)
+# Scénáře pro Reels: Rezidence Háječek – Vejprnice (Studiový Rozhovor - FINÁLNÍ VERZE V4)
 **Spolupráce:** Milan Brožek (Realitní makléř) & David Šimana (Finanční expert)
 **Lokalita:** Vejprnice u Plzně
 **Framework:** Corey Haines (PAS), Hook-Value-CTA
@@ -28,7 +28,7 @@
 
 | Čas | Vizuál (Instrukce pro produkci) | Mluvčí | Audio (Scénář) |
 | :--- | :--- | :--- | :--- |
-| **0:00 – 0:03 (HOOK)** | David se dívá na Milana, pak do kamery. **TEXT: NEMÁŠ NA TO? 🤔** | David | „Hele, většina lidí si myslí, že na tenhle projekt nemá… (pauza) Je to pravda?“ |
+| **0:00 – 0:03 (HOOK)** | David se dívá na Milana, pak do kamery. **TEXT: NEMÁŠ NA TO? 🤔** | David | „Hele… většina lidí si myslí, že na dům za 10 milionů nemá… (pauza) Je to pravda?“ |
 | **0:03 – 0:08 (AUTHORITY)** | Milan (klid, jistota, lehkej úsměv). **TEXT: VĚTŠINA SE PLETE ❌** | Milan | „Upřímně? Ve většině případů ne. Lidi si to jen nikdy nenechají reálně spočítat.“ |
 | **0:08 – 0:15 (VALUE)** | David se ptá za diváka. Milan si bere prostor. **TEXT: REALITA 📊** | David / Milan | **David:** „Tak jaká je realita?“ <br> **Milan:** „Dům za 10 milionů… řešíš hypotéku kolem 8 milionů… splátka je zhruba 40–45 tisíc měsíčně.“ |
 | **0:15 – 0:22 (EDUCATION)** | Milan pokračuje, David přikyvuje. | Milan | „A to znamená zhruba kolem 90 tisíc čistého jako domácnost. Ale důležitý je… že banka neřeší jen výplatu.“ |
