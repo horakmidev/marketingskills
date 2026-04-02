@@ -1,9 +1,9 @@
-# Scénáře pro Reels: Rezidence Háječek – Vejprnice (Studiový Rozhovor - FINÁLNÍ VERZE V4)
+# Scénáře pro Reels: Rezidence Háječek – Vejprnice (Studiový Rozhovor - FINÁLNÍ VERZE V5)
 **Spolupráce:** Milan Brožek (Realitní makléř) & David Šimana (Finanční expert)
 **Lokalita:** Vejprnice u Plzně
 **Framework:** Corey Haines (PAS), Hook-Value-CTA
 **Formát:** Studiový rozhovor s prostřihy (B-roll)
-**Strategie:** Mini Funnel (Reel 1 = Zájem, Reel 2 = Dostupnost (Makléř v hlavní roli), Reel 3 = Chyba)
+**Strategie:** Mini Funnel (Reel 1 = Zájem, Reel 2 = Dostupnost, Reel 3 = Scénka/Realita)
 
 ---
 
@@ -37,18 +37,18 @@
 
 ---
 
-## Reel 3: „NEJVĚTŠÍ CHYBA“
+## Reel 3: „NEJVĚTŠÍ CHYBA“ (FINAL - SCÉNKA / REALITA)
 
-**💣 CÍL:** Edukace, vyvolání strachu z chyby a konverze.
+**💣 CÍL:** Vyvolat emoci skrze reálnou situaci a nabídnout prevenci.
 
 | Čas | Vizuál (Instrukce pro produkci) | Mluvčí | Audio (Scénář) |
 | :--- | :--- | :--- | :--- |
-| **0:00 – 0:03 (HOOK)** | David se dívá na Milana, pak na kameru, vážný výraz. | David | „Jakou největší chybu dělají lidi, když řeší takovej dům, jako je Rezidence Háječek?“ |
-| **0:03 – 0:10 (ODPOVĚĎ)** | Milan se zamyslí, pak se podívá na Davida. | Milan | „Najdou si dům, zamilují se… a až pak začnou řešit peníze. To je klasika, která vede k problémům.“ |
-| **0:10 – 0:16 (PAIN)** | **B-roll:** Záběry na frustrované lidi u počítače, nebo na zamítnutou žádost o hypotéku (symbolicky). | David | „A v tu chvíli už jsou pod tlakem – berou, co jim banka dá. Často s nevýhodnými podmínkami, jen aby o ten vysněný dům nepřišli.“ |
-| **0:16 – 0:22 (SOLUTION)** | Zpět na Milana a Davida. Milan se dívá na Davida s pochopením. | Milan | „Přitom správně to má být naopak. Nejprve si zajistíš financování, pak teprve hledáš.“ |
-| **0:22 – 0:26 (VALUE)** | David se dívá do kamery, přesvědčivý tón. | David | „Nejdřív si necháš spočítat hypotéku, zjistíš svůj reálný rozpočet a možnosti… a pak jdeš hledat dům. S jasnou představou a silnou vyjednávací pozicí.“ |
-| **0:26 – 0:30 (CTA)** | Text na obrazovce: „Napiš HÁJEČEK do zpráv“. Oba se dívají do kamery. | Oba | „Napiš ‘HÁJEČEK’ a ukážeme ti, jak to udělat správně. Bez chyb a s maximálním ziskem pro tebe.“ |
+| **0:00 – 0:03 (HOOK)** | David se dívá na Milana, vážný výraz. **TEXT: TOHLE SE DĚJE POŘÁD 😬** | David | „Hele… klient si našel dům… složil rezervačku… (pauza) a pak zjistí, že nemá hypotéku.“ |
+| **0:03 – 0:08 (REACTION)** | Milan (lehkej facepalm vibe, kroutí hlavou). | Milan | „To je nejhorší scénář. A stává se to bohužel pořád.“ |
+| **0:08 – 0:15 (PAIN)** | **B-roll:** Záběry na prázdnou peněženku nebo symbolicky „přeškrtnutý“ dům. **TEXT: PRACHY PRYČ 💸** | Milan | „Přijde o čas… o rezervační poplatek… a ten dům je nakonec pryč.“ |
+| **0:15 – 0:20 (REFRAME)** | David se dívá do kamery, uklidňující tón. | David | „A přitom stačí jedna věc. Nejdřív řešit hypotéku… až pak dům.“ |
+| **0:20 – 0:26 (VALUE)** | David pokračuje, Milan přikyvuje. | David | „Necháš si schválit peníze… a víš přesně, co si můžeš dovolit. Jdeš na prohlídku s jistotou.“ |
+| **0:26 – 0:30 (CTA)** | Oba se dívají do kamery. **TEXT: NAPIŠ „HÁJEČEK“ 👇** | Milan / David | **Milan:** „Napiš ‘HÁJEČEK’…“ <br> **David:** „…a zjisti to dřív, než uděláš tuhle chybu.“ |
 
 ---
 
