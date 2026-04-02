@@ -1,9 +1,9 @@
-# Scénáře pro Reels: Rezidence Háječek – Vejprnice (Studiový Rozhovor - FINÁLNÍ VERZE V2)
+# Scénáře pro Reels: Rezidence Háječek – Vejprnice (Studiový Rozhovor - FINÁLNÍ VERZE V3)
 **Spolupráce:** Milan Brožek (Realitní makléř) & David Šimana (Finanční expert)
 **Lokalita:** Vejprnice u Plzně
 **Framework:** Corey Haines (PAS), Hook-Value-CTA
 **Formát:** Studiový rozhovor s prostřihy (B-roll)
-**Strategie:** Mini Funnel (Reel 1 = Zájem, Reel 2 = Dostupnost s čísly, Reel 3 = Chyba)
+**Strategie:** Mini Funnel (Reel 1 = Zájem, Reel 2 = Dostupnost (Makléř v hlavní roli), Reel 3 = Chyba)
 
 ---
 
@@ -22,18 +22,18 @@
 
 ---
 
-## Reel 2: „KOLIK MUSÍŠ VYDĚLÁVAT“ (Vylepšeno o reálná čísla)
+## Reel 2: „KOLIK MUSÍŠ VYDĚLÁVAT“ (FINAL - MAKLÉŘ V HLAVNÍ ROLI)
 
-**💣 CÍL:** Rozbít bariéru „nemám na to“ pomocí konkrétní matematiky.
+**💣 CÍL:** Rozbít bariéru „nemám na to“ pomocí autority makléře a expertní podpory poradce.
 
 | Čas | Vizuál (Instrukce pro produkci) | Mluvčí | Audio (Scénář) |
 | :--- | :--- | :--- | :--- |
-| **0:00 – 0:03 (HOOK)** | David se dívá do kamery, mírně skeptický výraz. | David | „Kolik musí člověk reálně vydělávat, aby si mohl dovolit dům za 10 milionů?“ |
-| **0:03 – 0:06 (BREAK PATTERN)** | Milan se lehce usměje, pak se podívá na Davida. | Milan | „Míň, než si většina lidí myslí. Davide, hoď tam ty čísla.“ |
-| **0:06 – 0:14 (VALUE – ČÍSLA)** | **Grafika na obrazovce:** <br>Cena: 10M <br>Vlastní: 2M <br>Hypo: 8M <br>Splátka: ~43k <br>**Příjem: ~90k čistého** | David | „Při hypotéce 8 milionů je splátka kolem 43 tisíc. To znamená, že jako rodina potřebujete čistý příjem kolem 90 tisíc korun.“ |
-| **0:14 – 0:22 (CONTEXT)** | David se dívá do kamery, vysvětluje. | David | „A pozor – banka bere oba příjmy, bonusy, diety nebo i příjmy z podnikání, o kterých si lidi často myslí, že neprojdou. Já ti to spočítám dopředu.“ |
-| **0:22 – 0:26 (REAL TALK)** | Milan přikyvuje, dívá se na Davida. | Milan | „Bez stresu a bez toho, že bys něco podepisoval naslepo. S Davidem víš, na čem jsi, ještě než se vůbec začneš dívat na konkrétní dům.“ |
-| **0:26 – 0:30 (CTA)** | Text na obrazovce: „Napiš HÁJEČEK do zpráv“. Oba se dívají do kamery. | Oba | „Napiš ‘HÁJEČEK’ a podíváme se na tvoje čísla. Zjisti, že na to máš.“ |
+| **0:00 – 0:03 (HOOK)** | David se dívá na Milana, pak do kamery. **TEXT: NEMÁŠ NA TO? 🤔** | David | „Hele, většina lidí si myslí, že na tenhle projekt nemá… (pauza) Je to pravda?“ |
+| **0:03 – 0:08 (AUTHORITY)** | Milan (klid, jistota, lehkej úsměv). **TEXT: VĚTŠINA SE PLETE ❌** | Milan | „Upřímně? Ve většině případů ne. Lidi si to jen nikdy nenechají reálně spočítat.“ |
+| **0:08 – 0:15 (VALUE)** | David se ptá za diváka. Milan si bere prostor. **TEXT: REALITA 📊** | David / Milan | **David:** „Tak jaká je realita?“ <br> **Milan:** „Dům za 10 milionů… řešíš hypotéku kolem 8 milionů… splátka je zhruba 40–45 tisíc měsíčně.“ |
+| **0:15 – 0:22 (EDUCATION)** | Milan pokračuje, David přikyvuje. | Milan | „A to znamená zhruba kolem 90 tisíc čistého jako domácnost. Ale důležitý je… že banka neřeší jen výplatu.“ |
+| **0:22 – 0:26 (EXPERTISE)** | David doplňuje expertní vhled. | David | „Přesně — počítají se bonusy, podnikání… věci, který lidi často vůbec neberou v potaz, ale banka je uzná.“ |
+| **0:22 – 0:30 (CTA)** | Milan do kamery, David se přidává. **TEXT: NAPIŠ „HÁJEČEK“ 👇** | Milan / David | **Milan:** „Napiš ‘HÁJEČEK’…“ <br> **David:** „…a spočítáme ti, na co reálně dosáhneš.“ <br> **Milan:** „Ať víš, jestli na to máš — dřív, než to zbytečně vzdáš.“ |
 
 ---
 
