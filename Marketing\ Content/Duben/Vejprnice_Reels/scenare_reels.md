@@ -1,9 +1,9 @@
-# Scénáře pro Reels: Rezidence Háječek – Vejprnice (Studiový Rozhovor - FINÁLNÍ VERZE V5)
+# Scénáře pro Reels: Rezidence Háječek – Vejprnice (Studiový Rozhovor - FINÁLNÍ VERZE V6)
 **Spolupráce:** Milan Brožek (Realitní makléř) & David Šimana (Finanční expert)
 **Lokalita:** Vejprnice u Plzně
 **Framework:** Corey Haines (PAS), Hook-Value-CTA
 **Formát:** Studiový rozhovor s prostřihy (B-roll)
-**Strategie:** Mini Funnel (Reel 1 = Zájem, Reel 2 = Dostupnost, Reel 3 = Scénka/Realita)
+**Strategie:** Mini Funnel (Reel 1 = Zájem, Reel 2 = Dostupnost, Reel 3 = Polished Realita)
 
 ---
 
@@ -37,18 +37,18 @@
 
 ---
 
-## Reel 3: „NEJVĚTŠÍ CHYBA“ (FINAL - SCÉNKA / REALITA)
+## Reel 3: „NEJVĚTŠÍ CHYBA“ (FINAL POLISHED - 10/10)
 
-**💣 CÍL:** Vyvolat emoci skrze reálnou situaci a nabídnout prevenci.
+**💣 CÍL:** Vyvolat silnou emoci skrze reálnou situaci a nabídnout okamžité řešení.
 
 | Čas | Vizuál (Instrukce pro produkci) | Mluvčí | Audio (Scénář) |
 | :--- | :--- | :--- | :--- |
-| **0:00 – 0:03 (HOOK)** | David se dívá na Milana, vážný výraz. **TEXT: TOHLE SE DĚJE POŘÁD 😬** | David | „Hele… klient si našel dům… složil rezervačku… (pauza) a pak zjistí, že nemá hypotéku.“ |
-| **0:03 – 0:08 (REACTION)** | Milan (lehkej facepalm vibe, kroutí hlavou). | Milan | „To je nejhorší scénář. A stává se to bohužel pořád.“ |
-| **0:08 – 0:15 (PAIN)** | **B-roll:** Záběry na prázdnou peněženku nebo symbolicky „přeškrtnutý“ dům. **TEXT: PRACHY PRYČ 💸** | Milan | „Přijde o čas… o rezervační poplatek… a ten dům je nakonec pryč.“ |
-| **0:15 – 0:20 (REFRAME)** | David se dívá do kamery, uklidňující tón. | David | „A přitom stačí jedna věc. Nejdřív řešit hypotéku… až pak dům.“ |
-| **0:20 – 0:26 (VALUE)** | David pokračuje, Milan přikyvuje. | David | „Necháš si schválit peníze… a víš přesně, co si můžeš dovolit. Jdeš na prohlídku s jistotou.“ |
-| **0:26 – 0:30 (CTA)** | Oba se dívají do kamery. **TEXT: NAPIŠ „HÁJEČEK“ 👇** | Milan / David | **Milan:** „Napiš ‘HÁJEČEK’…“ <br> **David:** „…a zjisti to dřív, než uděláš tuhle chybu.“ |
+| **0:00 – 0:03 (HOOK)** | David se dívá na Milana, vážný výraz. **TEXT: TOHLE SE DĚJE POŘÁD 😬** | David | „Hele… klient si našel dům… složil rezervačku… (pauza) …a pak zjistí, že nedostane hypotéku.“ |
+| **0:03 – 0:08 (REACTION)** | Milan (lehkej facepalm, nevěřícně kroutí hlavou). **TEXT: REALITA ❌** | Milan | „To je úplně nejhorší scénář. A víš co? Děje se to bohužel pořád dokola.“ |
+| **0:08 – 0:15 (PAIN)** | **B-roll:** Záběry na prázdnou peněženku nebo symbolicky „přeškrtnutý“ dům. **TEXT: PENÍZE PRYČ 💸** | Milan | „Přijde o rezervační poplatek… ten dům je pryč… a začíná úplně od nuly.“ |
+| **0:15 – 0:20 (REFRAME)** | David se dívá do kamery, silný, přesvědčivý tón. **TEXT: OTOČ TO 🔁** | David | „A přitom stačí jedna věc. Nejdřív peníze… až pak dům.“ |
+| **0:20 – 0:26 (VALUE)** | David pokračuje, Milan přikyvuje. | David | „Necháš si schválit hypotéku dopředu… a přesně víš, na co máš. Bez stresu.“ |
+| **0:26 – 0:30 (CTA)** | Oba se dívají do kamery. **TEXT: NAPIŠ „HÁJEČEK“ 👇** | Milan / David | **Milan:** „Napiš ‘HÁJEČEK’…“ <br> **David:** „…a zjisti to dřív, než tě to bude stát peníze.“ |
 
 ---
 
