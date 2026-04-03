@@ -1,24 +1,24 @@
-# Scénáře pro Reels: Rezidence Háječek – Vejprnice (Studiový Rozhovor - FINÁLNÍ VERZE V6)
+# Scénáře pro Reels: Rezidence Háječek – Vejprnice (Studiový Rozhovor - FINÁLNÍ VERZE V7)
 **Spolupráce:** Milan Brožek (Realitní makléř) & David Šimana (Finanční expert)
 **Lokalita:** Vejprnice u Plzně
 **Framework:** Corey Haines (PAS), Hook-Value-CTA
 **Formát:** Studiový rozhovor s prostřihy (B-roll)
-**Strategie:** Mini Funnel (Reel 1 = Zájem, Reel 2 = Dostupnost, Reel 3 = Polished Realita)
+**Strategie:** Mini Funnel (Reel 1 = Zájem (Natural CTA), Reel 2 = Dostupnost, Reel 3 = Polished Realita)
 
 ---
 
-## Reel 1: „KOMU TO DÁVÁ SMYSL“
+## Reel 1: „KOMU TO DÁVÁ SMYSL“ (FINAL - NATURAL CTA)
 
-**💣 CÍL:** Vzbudit zájem a cílit na správnou skupinu.
+**💣 CÍL:** Vzbudit zájem a přirozeně pozvat k nezávazné konverzaci.
 
 | Čas | Vizuál (Instrukce pro produkci) | Mluvčí | Audio (Scénář) |
 | :--- | :--- | :--- | :--- |
-| **0:00 – 0:03 (HOOK)** | Milan a David sedí v moderním studiu. Milan se dívá přímo do kamery, mírně nakloněný dopředu. | Milan | „Hele, komu vlastně dává smysl ten projekt ve Vejprnicích?“ |
-| **0:03 – 0:10 (ODPOVĚĎ)** | David se usměje, naváže oční kontakt s Milanem. | David | „Pro lidi, co chtějí klid, ale zároveň být za pár minut v Plzni. Ideální pro rodiny, které hledají rovnováhu.“ |
-| **0:10 – 0:16 (KONKRÉTNO)** | **B-roll:** Krátké, dynamické prostřihy na okolní přírodu (lesy, louky), pak na ceduli s názvem obce Vejprnice, a nakonec na silnici vedoucí do Plzně. | Milan | „Je to okraj obce, minimum provozu, příroda kolem… ale pořád jsi za chvilku ve městě. Žádné dojíždění hodinu a půl.“ |
-| **0:16 – 0:22 (FEATURES)** | **B-roll:** Vizualizace/fotky interiéru domu (prostorný obývák, kuchyně), pak exteriéru (zahrada, terasa, parkovací místa). | David | „Každý dům má kolem 140 metrů užitné plochy, vlastní zahradu a dvě parkovací místa přímo u domu. To je komfort, ne kompromis.“ |
-| **0:22 – 0:27 (NAPOJENÍ)** | Zpět na Milana a Davida. David se dívá na Milana, pak na kameru. | Milan | „Takže ideální pro rodinu, která chce klid, ale nechce se odstřihnout od veškerého dění a služeb města.“ |
-| **0:27 – 0:30 (CTA)** | Text na obrazovce: „Napiš HÁJEČEK do zpráv“. Oba se dívají do kamery. | Oba | „Napiš ‘HÁJEČEK’ a pošleme ti kompletní info o projektu a financování.“ |
+| **0:00 – 0:03 (HOOK)** | David se dívá na Milana, přátelský, ale expertní tón. **TEXT: KLID, ALE PLZEŇ? 🤔** | David | „Hele, když někdo chce klid… ale nechce pryč z Plzně — co mu doporučíš?“ |
+| **0:03 – 0:10 (ODPOVĚĎ)** | Milan se usměje, přikývne. | Milan | „Přesně pro tyhle lidi je projekt ve Vejprnicích. Máš klid… ale jsi pár minut od města.“ |
+| **0:10 – 0:16 (KONKRÉTNO)** | **B-roll:** Dynamické prostřihy na okraj obce, přírodu a pak rychlý střih na silnici směr Plzeň. | Milan | „Okraj obce, minimum provozu, příroda kolem… ale pořád jsi za chvíli v Plzni.“ |
+| **0:16 – 0:22 (FEATURES)** | **B-roll:** Vizualizace domu, zahrady a parkování. **TEXT: DŮM + ZAHRADA + KLID 🏡** | Milan | „Každý dům má kolem 140 metrů… vlastní zahradu a parkování přímo u domu.“ |
+| **0:22 – 0:27 (NAPOJENÍ)** | Zpět na Davida a Milana. David shrnuje. | David | „Takže ideální pro lidi, co chtějí víc prostoru… ale neztratit město.“ |
+| **0:27 – 0:30 (CTA - ROZHOVOR)** | David se ptá, Milan odpovídá do kamery. **TEXT: NAPIŠ MI 👇** | David / Milan | **David:** „A když by to někdo chtěl řešit… na koho se má obrátit?“ <br> **Milan:** „Klidně mi napiš tady do zpráv… podíváme se, jestli tohle bydlení dává smysl právě pro tebe.“ |
 
 ---
 
