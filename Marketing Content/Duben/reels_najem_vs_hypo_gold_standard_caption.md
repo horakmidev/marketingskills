@@ -1,9 +1,9 @@
 Platíš 20k za nájem? Většina si myslí, že je to „normální“. Ale tady je realita, kterou ti nikdo neřekne 👇
 
-**NÁJEM = PENÍZE PRYČ:**
-→ Platíš cizí hypotéku.
-→ Každý měsíc začínáš od nuly.
-→ Za 10 let = 0 Kč majetek.
+**NÁJEM = ZTRÁTA BEZ NÁVRATU:**
+→ Tvé peníze mizí bez stopy.
+→ Každý měsíc jen dotuješ cizí majetek.
+→ Za 10 let = 0 Kč vlastní hodnoty.
 
 **HYPOTÉKA = TVŮJ MAJETEK:**
 🏠 3 mil. Kč → cca 15 904 Kč/měsíc
