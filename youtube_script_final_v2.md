@@ -1,6 +1,6 @@
 **„Jak koupit DVĚ nemovitosti bez milionu na účtu (LEGÁLNĚ)“**
 
-Na investiční byt za 5 milionů dnes většina lidí nikdy nedosáhne. A není to proto, že vydělávají málo. Je to proto, že neví, jak banky skutečně fungují. Ahoj, já jsem David Šimana a za posledních pár let jsem klientům zajistil hypotéky v objemu přes 400 milionů korun. Dnes vám ukážu strategii, díky které někteří lidé financují dvě nemovitosti… i když nezačínají s velkými úsporami.
+Na investiční byt za 5 milionů dnes většina lidí nikdy nedosáhne. A není to proto, že vydělávají málo. Je to proto, že neví, jak banky skutečně fungují. Zdravím vás, moje jméno je David Šimana, jsem hypoteční specialista. A se svým týmem jsem pro moje klienty vyřídil přes 400M kč hypotekách za poslední tři roky. Dnes vám ukážu strategii, díky které někteří lidé financují dvě nemovitosti… i když nezačínají s velkými úsporami.
 
 Od dubna 2026 banky ještě víc zpřísnily investiční hypotéky. Najednou tu máme nižší LTV, tvrdší posuzování a vyšší tlak na vlastní kapitál. Jinými slovy? Na byt za 5 milionů dnes často potřebujete 1 až 1,5 milionu vlastních peněz. A většina lidí si v tu chvíli řekne: „Tak na investice nemám.“ Jenže… tohle je přesně moment, kdy bohatší lidé začínají nakupovat.
 
