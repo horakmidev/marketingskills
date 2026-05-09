@@ -5,7 +5,7 @@ Tento dokument obsahuje inzeráty pro aktuálně otevřené pozice. Tón hlasu j
 ---
 
 ## 1. Asistentka obchodního týmu (Administrativní podpora)
-**Typ spolupráce:** DPP / IČO
+**Typ spolupráce:** DPP / IČO  
 **Lokalita:** Flexibilní / Kancelář
 
 ### Máš ráda věci pod kontrolou a dotažené do konce?
@@ -30,7 +30,7 @@ Hledáme posilu, která se postará o to, aby náš obchodní tým mohl dělat t
 ---
 
 ## 2. Obchodní vedoucí (Regionální leader)
-**Lokalita:** Karlovy Vary / Západočeský kraj / Beroun / Příbram
+**Lokalita:** Karlovy Vary / Západočeský kraj / Beroun / Příbram  
 **Finanční ohodnocení:** 120 000 Kč + bonusy za výkon týmu
 
 ### Chceš řídit tým, ne jen vyplňovat tabulky?
@@ -56,7 +56,7 @@ Hledáme zkušeného obchodníka s ambicí vést lidi. Pokud už máš výsledky
 ---
 
 ## 3. Finanční konzultant (Budování osobní značky)
-**Cílový příjem:** 70 000 Kč+ měsíčně
+**Cílový příjem:** 70 000 Kč+ měsíčně  
 **Podpora:** První 3 měsíce garantovaná podpora v začátku
 
 ### Přestaň jen "prodávat" a začni budovat vlastní brand.
